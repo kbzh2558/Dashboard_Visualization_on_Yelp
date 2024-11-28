@@ -1,7 +1,7 @@
 # 🚀📊 Yelp Data Analysis: Strategic Insights for Market Competitiveness
 ![](https://img.shields.io/badge/python-3.10%2B-blue?logo=Python)
 ![Visualization](https://img.shields.io/badge/Data_Visualization-PowerBI-yellow)
-![Clustering](https://img.shields.io/badge/Clustering-KMeans-green)
+![Clustering](https://img.shields.io/badge/Clustering-KMeans&.Hierarchical-green)
 ![Sentiment Analysis](https://img.shields.io/badge/Sentiment_Analysis-NLP-blueviolet)
 
 🔍 A Comprehensive Analysis of Yelp's Platform for Strategic Recommendations 🔍
