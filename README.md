@@ -11,9 +11,8 @@
 > **Affiliation**: Desautels Faculty of Management-McGill University  
 > **Course**: INSY 442 – Data Analysis and Visualization  
 > **Dashboards**:
-
-    - [Customer &. Business Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTlkZDAxNDgtY2UxYi00MjQ5LTgyNjAtODFlMDdhZjZlOTZjIiwidCI6ImNkMzE5NjcxLTUyZTctNGE2OC1hZmE5LWZjZjhmODlmMDllYSIsImMiOjN9)
-    - [Finance Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTU3ZjdjOGEtODVhZC00YTUwLTg4NGYtNTkxYWMxNmY3NmQ3IiwidCI6ImNkMzE5NjcxLTUyZTctNGE2OC1hZmE5LWZjZjhmODlmMDllYSIsImMiOjN9)
+    1. [Customer &. Business Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTlkZDAxNDgtY2UxYi00MjQ5LTgyNjAtODFlMDdhZjZlOTZjIiwidCI6ImNkMzE5NjcxLTUyZTctNGE2OC1hZmE5LWZjZjhmODlmMDllYSIsImMiOjN9)
+    2. [Finance Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTU3ZjdjOGEtODVhZC00YTUwLTg4NGYtNTkxYWMxNmY3NmQ3IiwidCI6ImNkMzE5NjcxLTUyZTctNGE2OC1hZmE5LWZjZjhmODlmMDllYSIsImMiOjN9)
 ---
 
 ## Overview
