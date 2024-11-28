@@ -13,7 +13,6 @@
 > **Dashboards**:
     - [Customer &. Business Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTlkZDAxNDgtY2UxYi00MjQ5LTgyNjAtODFlMDdhZjZlOTZjIiwidCI6ImNkMzE5NjcxLTUyZTctNGE2OC1hZmE5LWZjZjhmODlmMDllYSIsImMiOjN9)
     - [Finance Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTU3ZjdjOGEtODVhZC00YTUwLTg4NGYtNTkxYWMxNmY3NmQ3IiwidCI6ImNkMzE5NjcxLTUyZTctNGE2OC1hZmE5LWZjZjhmODlmMDllYSIsImMiOjN9)
-<iframe title="Finance Dashboard" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMTU3ZjdjOGEtODVhZC00YTUwLTg4NGYtNTkxYWMxNmY3NmQ3IiwidCI6ImNkMzE5NjcxLTUyZTctNGE2OC1hZmE5LWZjZjhmODlmMDllYSIsImMiOjN9" frameborder="0" allowFullScreen="true"></iframe>
 ---
 
 ## Overview
