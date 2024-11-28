@@ -8,9 +8,9 @@
 
 > **Authors**  
 > Antoine Payrar, Kaibo Zhang, Asha Bui  
-> **Affiliation**: McGill University  
+> **Affiliation**: Desautels Faculty of Management-McGill University  
 > **Course**: INSY 442 – Data Analysis and Visualization  
-
+> **Dashboards**: [Customer &. Business Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTlkZDAxNDgtY2UxYi00MjQ5LTgyNjAtODFlMDdhZjZlOTZjIiwidCI6ImNkMzE5NjcxLTUyZTctNGE2OC1hZmE5LWZjZjhmODlmMDllYSIsImMiOjN9)
 ---
 
 ## Overview
@@ -78,7 +78,7 @@ Key features include reviews, tips, business attributes, and user behavior. The 
 |---------------------|---------------------------------------------------|
 | **Power Users**     | Elite users with high engagement and credibility. |
 | **Growing Influencers** | Users with potential for significant platform impact. |
-| **Cluster 1 Businesses** | Medium-rated businesses poised for growth through targeted support. |
+| **Medium Standing Businesses** | Medium-rated businesses poised for growth through targeted support. |
 
 | Financial Scenarios | Projected Stock Upside |
 |---------------------|-------------------------|
@@ -114,5 +114,5 @@ Key features include reviews, tips, business attributes, and user behavior. The 
 
 ## Citation
 
-For references and further details, consult the full report included in this repository.
+For references and further details, please take a look at the full report included in this repository.
 
